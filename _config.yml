@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://orthonomieplus.com" # the base hostname & protocol for your site
+copyright: "<a href='http://www.mathieufournier.ca'>Programmation Mathieu Fournier</a>"
 
 # Build settings
 markdown: kramdown
