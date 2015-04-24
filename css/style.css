@@ -126,7 +126,7 @@ img {
 body {
     font-family: 'Roboto', sans-serif;
     min-height: 100%;
-    background: #A6CF00;
+    background: #ffffff;
 }
 
 .full-container {
@@ -692,6 +692,10 @@ text-align: center;
         left: 7em;
         bottom: -18px;
     }
+
+.footer-site{
+    background-color: #A6Cf00;
+}
 
 .footer {
     padding: 15px 0;
